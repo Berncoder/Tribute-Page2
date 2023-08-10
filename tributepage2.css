@@ -1,0 +1,33 @@
+#title  {
+  text-align: center;
+  padding-top: 5%;
+}
+#main {
+    background-color: rgba(244, 241, 241, 0.676);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    letter-spacing: 1px;
+}
+#image {
+  padding: 30px 30px 30px 30px;
+  max-width: 100%; 
+  height: auto;
+  display: block;
+}
+#tribute-info {
+    padding-left: 25%;
+    padding-right: 25%;
+}
+figcaption {
+padding-left: 5%;
+}
+p{
+    text-align: center;
+}
+
+p #tribute-info{
+    text-align: center;
+}
+span {
+    font-weight: bold;
+}
